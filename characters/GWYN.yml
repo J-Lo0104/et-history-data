@@ -464,24 +464,25 @@ gwyn_dafydd_ab_owain_gwynedd:
     religion: catholic
     culture: welsh
     tag: GWYN
-  1195.1.1:
+  1203.1.1:
     death: yes
 gwyn_llywelyn_aberffraw:
-  1165.1.1:
-    birth: carnarvon #TODO: Date and location guessed, check if better data is available
+  1173.1.1:
+    birth: conwy #believed to be born at Dolwyddelan in Conwy
     first_name: llywelyn
     dynasty: aberffraw_dynasty
+    nickname: the_great
     adm: 75
     dip: 60
     mil: 45
     religion: catholic
     culture: welsh
     tag: GWYN
-  1240.1.1:
+  1240.4.11:
     death: yes
 gwyn_dafydd_i_aberffraw:
   1210.1.1:
-    birth: carnarvon #TODO: Date and location guessed, check if better data is available
+    birth: flint #believed to be born at Castell Hen Blas in Flintshire
     first_name: dafydd
     dynasty: aberffraw_dynasty
     adm: 60
@@ -490,7 +491,7 @@ gwyn_dafydd_i_aberffraw:
     religion: catholic
     culture: welsh
     tag: GWYN
-  1246.1.1:
+  1246.2.25:
     death: yes
 gwyn_llywelyn_aberffraw_1:
   1216.1.1:
@@ -503,5 +504,5 @@ gwyn_llywelyn_aberffraw_1:
     religion: catholic
     culture: welsh
     tag: GWYN
-  3000.1.1:
+  1283.12.11:
     death: yes
